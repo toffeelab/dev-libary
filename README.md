@@ -8,8 +8,8 @@
 
 ## 1-1. 개발 기초 [Link](/cs)
 
-- [객체 지향](/cs/객체 지향.md)
-- RESTFul API
+- [객체 지향](/cs/OOP.md)
+- [RESTFul](/cs/RESTFul.md)
 - TDD
 - 함수형 프로그래밍
 - MVC 패턴
